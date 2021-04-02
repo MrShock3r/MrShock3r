@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrShock3r
-- 👀 I’m interested in ... business venture involving nfts, and crypto
-- 🌱 I’m currently learning ... coding, but would rather have a partner in that expertise
-- 💞️ I’m looking to collaborate on ... building businesses
+- 👀 I’m interested in ... business ventures involving nfts, and crypto
+- 🌱 I’m currently learning ... coding, but would rather have a partner in that expertise/field
+- 💞️ I’m looking to collaborate on ... building businesses and communities
 - 📫 How to reach me ... message me through here or email.
 
 <!---
